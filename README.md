@@ -46,10 +46,8 @@
 
 <h2 align="center">🎯 Contributions 🎯</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Officialdevpro/Officialdevpro/output/github-contribution-grid-snake.svg" alt="Snake animation for Officialdevpro" />
+ ![snake gif](https://github.com/Officialdevpro/Officialdevpro/blob/output/github-snake-dark.svg)
 </div>
-
-
 <hr/>
 
 <h2 align="center">🌟 Activity Graph 🌟</h2>
