@@ -3,6 +3,8 @@
 </h1>
 
 
+
+
 <h3 align="center">Crafting seamless web experiences with code and creativity.</h3>
 
 <div align="center">
@@ -45,10 +47,12 @@
 <hr/>
 
 <h2 align="center">🎯 Contributions 🎯</h2>
-<div align="center">
- ![snake gif](https://github.com/Officialdevpro/Officialdevpro/blob/output/github-snake-dark.svg)
-</div>
-<hr/>
+
+
+![snake gif](https://github.com/Officialdevpro/Officialdevpro/blob/output/github-snake-dark.svg)
+
+
+
 
 <h2 align="center">🌟 Activity Graph 🌟</h2>
 <div align="center">
