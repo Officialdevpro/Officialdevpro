@@ -63,5 +63,5 @@
 
 <h2 align="center">🚀 LeetCode Journey 🚀</h2>
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Officialdevpro?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats Dark" />
+  <img src="https://leetcard.jacoblin.cool/Naveen_Venkatraman?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats Dark" />
 </div>
